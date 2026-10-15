@@ -1,15 +1,19 @@
 <!-- glavni naslov -->
-# Računalniški praktikum
+#  Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdownu skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. Pustite jih v datoteki. -->
 
 <!-- 2. nivojski razdelek -->
-## Bližnjice na tipkovnici
+##  Bližnjice na tipkovnici
 
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 - *Izreži* označeno v odložišče: Ctrl+X
 - *Prilepi* vsebino odložišča: Ctrl+V
-
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 <!-- 2. nivojski razdelek -->
 ## Koda
 
