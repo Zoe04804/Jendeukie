@@ -9,7 +9,6 @@
 *.log
 *.nav
 *.out
-*.pdf
 *.pyc
 *.snm
 *.synctex.gz
