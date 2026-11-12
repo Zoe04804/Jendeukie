@@ -12,4 +12,5 @@
 *.pyc
 *.snm
 *.synctex.gz
-
+*.pdf
+*.zip
